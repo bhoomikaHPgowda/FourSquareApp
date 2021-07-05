@@ -14,6 +14,8 @@
 		6A6F6983268F01900083ED80 /* PhotosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A6F6982268F01900083ED80 /* PhotosViewController.swift */; };
 		6A6F698A268F05440083ED80 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A6F6989268F05440083ED80 /* CollectionViewCell.swift */; };
 		6A6F6991268F3E9D0083ED80 /* DisplayPhotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A6F6990268F3E9D0083ED80 /* DisplayPhotoViewController.swift */; };
+		6A7088382692EBEC000E12FF /* ReviewDisplayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A7088372692EBEC000E12FF /* ReviewDisplayViewController.swift */; };
+		6A70883B2692EF8B000E12FF /* ReviewDisplayCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A70883A2692EF8B000E12FF /* ReviewDisplayCell.swift */; };
 		6A7583DE2691976A00907489 /* CustomNearTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A7583DD2691976A00907489 /* CustomNearTextField.swift */; };
 		6A7583E22691983600907489 /* CustomSearchTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A7583E12691983600907489 /* CustomSearchTextField.swift */; };
 		6A7627DF268B51A600431C33 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A7627DE268B51A600431C33 /* SearchViewController.swift */; };
@@ -37,6 +39,8 @@
 		6A6F6982268F01900083ED80 /* PhotosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotosViewController.swift; sourceTree = "<group>"; };
 		6A6F6989268F05440083ED80 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 		6A6F6990268F3E9D0083ED80 /* DisplayPhotoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisplayPhotoViewController.swift; sourceTree = "<group>"; };
+		6A7088372692EBEC000E12FF /* ReviewDisplayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewDisplayViewController.swift; sourceTree = "<group>"; };
+		6A70883A2692EF8B000E12FF /* ReviewDisplayCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewDisplayCell.swift; sourceTree = "<group>"; };
 		6A7583DD2691976A00907489 /* CustomNearTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomNearTextField.swift; sourceTree = "<group>"; };
 		6A7583E12691983600907489 /* CustomSearchTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomSearchTextField.swift; sourceTree = "<group>"; };
 		6A7627DE268B51A600431C33 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
@@ -108,6 +112,8 @@
 				AF35DE08268AECA900742C78 /* SceneDelegate.swift */,
 				AF35DE0A268AECA900742C78 /* ViewController.swift */,
 				AF35DE0C268AECA900742C78 /* Main.storyboard */,
+				6A7088372692EBEC000E12FF /* ReviewDisplayViewController.swift */,
+				6A70883A2692EF8B000E12FF /* ReviewDisplayCell.swift */,
 				6A6F6990268F3E9D0083ED80 /* DisplayPhotoViewController.swift */,
 				6A6F6982268F01900083ED80 /* PhotosViewController.swift */,
 				6A6F6989268F05440083ED80 /* CollectionViewCell.swift */,
@@ -212,6 +218,8 @@
 				AF35DE09268AECA900742C78 /* SceneDelegate.swift in Sources */,
 				6A6A3B48268DE42E0069BDA4 /* CustomSubmitButton.swift in Sources */,
 				6A6A3B4B268DE51B0069BDA4 /* UIColour+Extension.swift in Sources */,
+				6A7088382692EBEC000E12FF /* ReviewDisplayViewController.swift in Sources */,
+				6A70883B2692EF8B000E12FF /* ReviewDisplayCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
